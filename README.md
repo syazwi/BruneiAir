@@ -4,31 +4,31 @@ This project is a **Scheduling and Booking System** for **Brunei Airlines**, des
 
 ## 📊 Entity-Relationship Diagram (ERD)
 Here is the **ERD** for Brunei Airlines:
-![ERD Diagram](images/ERD_bruneiairline.png)
+![ERD Diagram](ERD_bruneiairline.png)
 
 ---
 
 ## 🖥️ Admin Dashboard
 The admin dashboard provides an overview of system activities.
-![Admin Dashboard](images/admin_dashboard.png)
+![Admin Dashboard](admin_dashboard.png)
 
 ---
 
 ## ✈️ Flights Management
 Admins and staff can manage flight schedules.
-![Flights Page](images/flight.png)
+![Flights Page](flight.png)
 
 ---
 
 ## 🧑‍✈️ Crew Management
 Assign crew members to flights and track assignments.
-![Crew Page](images/crew.png)
+![Crew Page](crew.png)
 
 ---
 
 ## 🛒 Booking System
 Passengers can book and manage their flights.
-![Bookings Page](images/bookings.png)
+![Bookings Page](bookings.png)
 
 
 ---
