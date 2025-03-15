@@ -4,7 +4,7 @@ This project is a **Scheduling and Booking System** for **Brunei Airlines**, des
 
 ## 📊 Entity-Relationship Diagram (ERD)
 Here is the **ERD** for Brunei Airlines:
-![ERD Diagram](ERD_bruneiairline.png)
+![ERD Diagram](../ERD_bruneiairline.png)
 
 ---
 
